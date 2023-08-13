@@ -1,3 +1,64 @@
 <resources>
-    <string name="app_name">Android OCR</string>
+    <string name="app_name">Transport</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="splash_screen_title">Vehicle Inspection System</string>
+    <string name="capture_title">Select Image Source</string>
+    <string name="txt_VehicleNo">Vehicle No</string>
+    <string name="SelectService">Select Service</string>
+    <string name="Select_Offense">Select Offense</string>
+    <string name="transport_bar">Transport</string>
+    <string name="footer"></string>
+    <string name="txt_VehicleOwner">Vehicle Owner</string>
+    <string name="txt_ChasisNumber">Chasis Number</string>
+    <string name="txt_EngineNumber">Engine Number</string>
+    <string name="txt_submit_offense">Submit Offense</string>
+    <string name="FromCamera">Camera</string>
+    <string name="Pick_Gallery">Gallery</string>
+    <string name="otp_title">Please enter the 6 digit verification code Sent to</string>
+    <string name="otp_button_text">VERIFY</string>
+    <string name="resend_msg">Didn’t receive the OTP?</string>
+    <string name="resend_again_msg">Resend again</string>
+    <string name="sent_to_91_xxxx_xxx">sent to +91 XXXX XXX</string>
+    <string name="total_Service_submitted">Total Service</string>
+    <string name="total_action_taken">Action</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="Services">
+        <item>--Select--</item>
+        <item>Transfer of ownership</item>
+        <item>Renewal</item>
+        <item>Arrival </item>
+    </string-array>
+    <string-array name="ImageType">
+        <item>--Select--</item>
+        <item>Front</item>
+        <item>Back</item>
+        <item>Chasis</item>
+        <item>Engine</item>
+    </string-array>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="submit_offense">Submit Offense</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_mobile">Mobile Number</string>
+    <string name="txt_email">Email Address</string>
+    <string name="txt_address">Address</string>
+    <string name="btn_register">Register</string>
+
+    <string-array name="request_type_array">
+        <item>Transfer of Ownership</item>
+        <item>Renewal</item>
+        <item>Arrival</item>
+    </string-array>
 </resources>
